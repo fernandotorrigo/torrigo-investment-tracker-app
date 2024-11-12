@@ -1,4 +1,4 @@
-package com.plcoding.torrigoinvestmenttracker.util
+package com.plcoding.torrigoinvestmenttracker.core.domain.util
 
 typealias DomainError = Error
 

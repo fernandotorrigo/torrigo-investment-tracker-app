@@ -3,7 +3,7 @@ package com.plcoding.torrigoinvestmenttracker.crypto.presentation.models
 import android.icu.text.NumberFormat
 import androidx.annotation.DrawableRes
 import com.plcoding.torrigoinvestmenttracker.crypto.domain.Coin
-import com.plcoding.torrigoinvestmenttracker.util.getDrawableIdForCoin
+import com.plcoding.torrigoinvestmenttracker.core.presentation.util.getDrawableIdForCoin
 import java.util.Locale
 
 data class CoinUi(
