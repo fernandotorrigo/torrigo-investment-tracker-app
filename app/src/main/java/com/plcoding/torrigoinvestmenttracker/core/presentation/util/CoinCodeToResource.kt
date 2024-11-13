@@ -1,4 +1,4 @@
-package com.plcoding.torrigoinvestmenttracker.util
+package com.plcoding.torrigoinvestmenttracker.core.presentation.util
 
 import com.plcoding.torrigoinvestmenttracker.R
 
