@@ -1,4 +1,4 @@
-package com.plcoding.torrigoinvestmenttracker.crypto.presentation.coin_list.components
+package com.plcoding.torrigoinvestmenttracker.crypto.presentation.coin_list
 
 import androidx.compose.runtime.Immutable
 import com.plcoding.torrigoinvestmenttracker.crypto.presentation.models.CoinUi
